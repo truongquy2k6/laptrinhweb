@@ -1,0 +1,2 @@
+đây là test_merge.txt
+thuộc branch test_merge

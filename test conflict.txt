@@ -1,2 +1,6 @@
 Đây là file test conflict.txt
+<<<<<<< HEAD
 thuộc brance test_conflict mà thôi
+=======
+thuộc brance test_conflict và main
+>>>>>>> main
