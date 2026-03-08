@@ -1,2 +1,2 @@
 Đây là file test conflict.txt
-thuộc brance test_conflict
+thuộc brance test_conflict mà thôi
